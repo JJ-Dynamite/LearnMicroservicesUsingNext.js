@@ -140,4 +140,4 @@ service API to fetch product data by ID
 
 This example demonstrates a simple microservices architecture using Next.js. Each microservice has its own set of pages, components, and API functions for fetching data. The shared code in the `shared/utils` directory allows for reusable utility functions or modules that can be used across microservices.
 
-Note that this example is simplified for illustration purposes. In a real-world scenario, you would typically have more complex business logic, authentication, error handling, and communication mechanisms between microservices.
+
